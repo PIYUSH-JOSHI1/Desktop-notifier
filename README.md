@@ -25,7 +25,7 @@ BlinkAlert is a powerful and intuitive task management web application that help
 
 1. Clone the repository or download the source code:
    ```
-   git clone https://github.com/yourusername/blinkalert.git
+   git clone https://github.com/PIYUSH-JOSHI1/Desktop-notifier.git
    ```
 
 2. Navigate to the project directory:
